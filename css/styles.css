@@ -33,11 +33,12 @@ body {
   text-align: right;
 }
 
-#previus-operation {
+#previous-operation {
   color: #777;
   padding: 0.4em;
   overflow-wrap: break-word;
   min-height: 2em;
+  font-size: 2em;
 }
 
 #current-operation {
